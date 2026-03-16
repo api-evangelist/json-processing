@@ -1,12 +1,39 @@
+aid: json-processing
 name: JSON Processing
-description: JSON Processing is a specialized technology or methodology in the json
-  domain that addresses specific technical or business requirements. It provides targeted
-  capabilities that help practitioners and organizations solve problems and improve
-  outcomes in their area of focus.
-url: null
+description: >-
+  JSON Processing (JSON-P) is a Java API for processing (parsing, generating,
+  transforming, and querying) JSON messages. It provides an object model API
+  and a streaming API for working with JSON data in Java applications.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JSON Processing
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - JSON Processing
+  - Java
+  - JSON
+  - Parsing
+url: https://raw.githubusercontent.com/api-evangelist/json-processing/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: json-processing:json-p
+    name: Jakarta JSON Processing
+    description: >-
+      The Jakarta JSON Processing specification for parsing, generating,
+      transforming, and querying JSON messages in Java applications.
+    humanURL: https://jakarta.ee/specifications/jsonp/
+    tags:
+      - JSON Processing
+      - Java
+      - Parsing
+    properties:
+      - type: Documentation
+        url: https://jakarta.ee/specifications/jsonp/
+common:
+  - type: Website
+    url: https://jakarta.ee/specifications/jsonp/
+  - type: Documentation
+    url: https://jakarta.ee/specifications/jsonp/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
