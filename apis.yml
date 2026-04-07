@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JSON Processing
   - Java
   - JSON
+  - JSON Processing
   - Parsing
 url: https://raw.githubusercontent.com/api-evangelist/json-processing/refs/heads/main/apis.yml
 created: '2025-01-01'
@@ -23,8 +23,8 @@ apis:
       transforming, and querying JSON messages in Java applications.
     humanURL: https://jakarta.ee/specifications/jsonp/
     tags:
-      - JSON Processing
       - Java
+      - JSON Processing
       - Parsing
     properties:
       - type: Documentation
