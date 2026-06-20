@@ -8,7 +8,7 @@ description: >-
   Processing 2.1 (Jakarta EE 10), with version 2.2 under development for
   Jakarta EE 12.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Java
   - JSON
