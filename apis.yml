@@ -42,12 +42,16 @@ apis:
       - type: Reference
         url: https://jakarta.ee/specifications/jsonp/2.1/jakarta-jsonp-spec-2.1
 common:
+  - type: DomainSecurity
+    url: security/json-processing-domain-security.yml
   - type: Website
     url: https://jakarta.ee/specifications/jsonp/
   - type: Documentation
     url: https://jakarta.ee/specifications/jsonp/
   - type: Specification
     url: https://jakarta.ee/specifications/jsonp/2.1/
+  - url: https://jakarta.ee/blogs/index.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
